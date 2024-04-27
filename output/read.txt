@@ -1,0 +1,13 @@
+This is a text file
+Currently doing an extra credit assingment
+There will me grammatical errors in this file
+Ten lines in total currently at 4
+Coding is fun
+Using vi to make this file
+Can be whatever
+Hopefully the semster ends well
+Fiance Major
+Computer Scince Major
+Making a script for automation
+
+ 
